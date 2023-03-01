@@ -29,6 +29,11 @@ public class Object {
         c.name = "紅燒排骨";
         c.food = "排骨";
         c.execute();
+
+        c.name = "紅燒魚";
+        c.food = "鱸魚";
+        c.execute();
+
     }
     static class Cooking {
         // 特徵(屬性)
